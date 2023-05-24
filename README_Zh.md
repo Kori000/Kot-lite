@@ -1,15 +1,15 @@
 # Kot-lite
 
-🌏 [English](https://github.com/Kori000/Kot/blob/main/README.md)
+🌏 [English](https://github.com/Kori000/Kot-lite/blob/main/README.md)
 
 ## 快速开始
 
 ```bash
 # 克隆项目
-git clone https://github.com/Kori000/Kot.git
+git clone https://github.com/Kori000/Kot-lite.git
 
 # 进入目录
-cd Kot
+cd Kot-lite
 
 # 安装依赖
 yarn

@@ -1,15 +1,15 @@
 # Kot-lite
 
-👀 [中文文档](https://github.com/Kori000/Kot/blob/main/README_Zh.md)
+👀 [中文文档](https://github.com/Kori000/Kot-lite/blob/main/README_Zh.md)
 
 ## Getting started
 
 ```bash
 # clone the project
-git clone https://github.com/Kori000/Kot.git
+git clone git@github.com:Kori000/Kot-lite.git
 
 # enter the project directory
-cd Kot
+cd Kot-lite
 
 # install dependency
 yarn
