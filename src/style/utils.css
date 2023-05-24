@@ -1,0 +1,16 @@
+.ban-textarea {
+  border: 0.5px solid rgba(255, 255, 255, 0.3);
+  border-radius: 8px;
+}
+
+.ban-textarea::placeholder {
+  color: #999999;
+}
+
+.ban-textarea:focus {
+  outline: none;
+  /* 移除默认的选中边框 */
+  border: 0.5px solid rgba(255, 255, 255, 0.83);
+  border-radius: 8px;
+  /* 设置新的边框样式 */
+}

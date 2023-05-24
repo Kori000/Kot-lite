@@ -2,7 +2,7 @@ import React from 'react';
 
 const BANPage = () => {
   return (
-    <div className='w-full h-screen bg-black flex justify-center items-center xl:text-3xl sm:text-2xl text-xl text-white font-AXSA '>
+    <div className='w-full h-screen bg-black flex justify-center items-center xl:text-3xl sm:text-2xl text-xl text-white font-Inter '>
       Sorry, not supported in your area.
     </div>
   );
